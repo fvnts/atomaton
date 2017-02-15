@@ -1,4 +1,4 @@
-# atomaton
+# automaton
 One dimensional linear automaton for 8bits.
 
 > The repository includes an evolution generator in C++ and a 
