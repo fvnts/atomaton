@@ -4,8 +4,6 @@
 //
 //  Created by Jes'us Fuentes on 12/4/16.
 //
-//  http://www.fvnts.ch
-//
 
 /*
 
